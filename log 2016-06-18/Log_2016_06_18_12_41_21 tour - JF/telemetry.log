@@ -1,0 +1,8 @@
+2016-06-18 12:41:21,623 [ INFO] App initializing..
+2016-06-18 12:41:21,623 [ INFO] Loading global telemetry settings..
+2016-06-18 12:41:21,680 [ INFO] Protocol XML Schema appears to be valid.
+2016-06-18 12:41:21,742 [ INFO] Protocol XML file appears to be valid.
+2016-06-18 12:41:21,977 [ INFO] Protocol loaded successfully.
+2016-06-18 12:41:24,845 [ INFO] Acquisition start
+2016-06-18 12:49:46,083 [ERROR] Recu Trame 0000030d existe pas dans XML
+2016-06-18 13:09:41,500 [ INFO] X pressed, Quitting

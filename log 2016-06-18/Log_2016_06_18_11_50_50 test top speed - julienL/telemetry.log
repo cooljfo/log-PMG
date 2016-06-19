@@ -1,0 +1,8 @@
+2016-06-18 11:50:50,535 [ INFO] App initializing..
+2016-06-18 11:50:50,536 [ INFO] Loading global telemetry settings..
+2016-06-18 11:50:50,606 [ INFO] Protocol XML Schema appears to be valid.
+2016-06-18 11:50:50,671 [ INFO] Protocol XML file appears to be valid.
+2016-06-18 11:50:50,948 [ INFO] Protocol loaded successfully.
+2016-06-18 11:50:53,805 [ INFO] Acquisition start
+2016-06-18 12:35:51,988 [ INFO] Acquisition stop
+2016-06-18 12:36:12,618 [ INFO] X pressed, Quitting

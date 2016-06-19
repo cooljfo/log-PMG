@@ -1,0 +1,10 @@
+2016-06-18 13:38:14,325 [ INFO] App initializing..
+2016-06-18 13:38:14,325 [ INFO] Loading global telemetry settings..
+2016-06-18 13:38:14,396 [ INFO] Protocol XML Schema appears to be valid.
+2016-06-18 13:38:14,473 [ INFO] Protocol XML file appears to be valid.
+2016-06-18 13:38:14,730 [ INFO] Protocol loaded successfully.
+2016-06-18 13:38:17,132 [ INFO] Acquisition start
+2016-06-18 13:39:36,926 [ERROR] Recu Trame 20370500 existe pas dans XML
+2016-06-18 13:44:36,823 [ERROR] Recu Trame 2000644e existe pas dans XML
+2016-06-18 14:51:57,584 [ INFO] Acquisition stop
+2016-06-18 14:52:01,780 [ INFO] X pressed, Quitting
